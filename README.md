@@ -79,6 +79,28 @@ Balancing:
 
 ---
 
+## Tracking System
+
+**Tools:** Apple Watch + Weighing Machine + CSV Tracker
+
+| What to Track | How | When | Target |
+|---------------|-----|------|--------|
+| Weight | Weighing machine | Daily, morning (fasted) | Lose 0.5-1 kg/week |
+| Steps | Apple Watch | All day | 8,000-10,000/day |
+| Workouts | Apple Watch + Manual log | After each workout | 4-5/week |
+| Protein | MyFitnessPal or manual | End of day | 140-160g/day |
+| Water | Manual count | Throughout day | 3-4 liters/day |
+| Sleep | Apple Watch Sleep | Nightly | 7-8 hours/night |
+
+**Files:**
+- `TRACKING.md` — Complete guide to tracking with Apple Watch, weighing best practices, weekly/monthly review templates
+- `tracking.csv` — Simple spreadsheet for daily data entry (import to Excel/Google Sheets for charts)
+- `WORKOUT_LOG.md` — Detailed workout entries with exercises, weights, reps
+
+**Weekly Review:** Every Sunday — calculate averages, review progress, adjust next week's plan
+
+---
+
 ## Goals
 
 ### Short-term (First 30 Days)
