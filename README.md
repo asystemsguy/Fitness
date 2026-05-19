@@ -11,7 +11,7 @@
 
 Balancing:
 - 💼 Work (9 AM - 6 PM)
-- 📚 Interview prep (AlgoMonster)
+- 📚 Career Improvement (AlgoMonster)
 - 🏋️ Fitness
 - 👨‍👩‍👦 Family time
 - 🍳 Cooking/meal prep
